@@ -103,11 +103,12 @@ sudo kubeadm join host:port --token token-example --discovery-token-ca-cert-hash
 ```
 get node in cluster k8s:
 ```
-kuberctl get nodes
+kubectl get nodes
 ```
 ![image](https://user-images.githubusercontent.com/22917097/180415963-6e851c21-b4fa-4bd2-8440-39df990cd4c3.png)
 # NOTE:
 	- tutorial for beginer
 	- if you have many server, you should install with k3s or kubespray.
 copyright by kiu.kiu.duck.pea
+
 follow me: github: kiu.kiu.duck.pea
