@@ -1,6 +1,5 @@
 # install k8s cluster and docker
 copyright by kiu.kiu.duck.pea
-follow me: github: [kiu.kiu.duck.pea](https://github.com/DuckPea)
 
 note before install:
 -  I have 5 server ubuntu 20.04
@@ -110,4 +109,3 @@ kuberctl get nodes
 	- tutorial for beginer
 	- if you have many server, you should install with k3s or kubespray.
 copyright by kiu.kiu.duck.pea
-follow me: github: [kiu.kiu.duck.pea](https://github.com/DuckPea)
