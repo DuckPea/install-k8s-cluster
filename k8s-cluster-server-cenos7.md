@@ -1,10 +1,10 @@
 # 1. Info
 ```sh
-Vda Master:
+ Master:
 
-Vda Worker01:
+ Worker01:
 
-Vda Woker02:
+ Woker02:
 ```
 # 2. Install Docker
 https://docs.docker.com/engine/install/centos/
@@ -88,5 +88,3 @@ sudo kubeadm join host:port --token token-example --discovery-token-ca-cert-hash
 	- tutorial for beginer
 	- if you have many server, you should install with k3s or kubespray.
 copyright by kiu.kiu.duck.pea
-follow me: github: [kiu.kiu.duck.pea](https://github.com/DuckPea)
-
