@@ -83,3 +83,10 @@ kubectl get nodes
 ```
 sudo kubeadm join host:port --token token-example --discovery-token-ca-cert-hash sha256:key_example
 ```
+
+# NOTE:
+	- tutorial for beginer
+	- if you have many server, you should install with k3s or kubespray.
+copyright by kiu.kiu.duck.pea
+follow me: github: [kiu.kiu.duck.pea](https://github.com/DuckPea)
+
